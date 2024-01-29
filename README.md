@@ -1,10 +1,3 @@
-Цели практической работы
-
-    Применить знания о работе с Firebase к проекту.
-    Закрепить на практике принципы работы с сервисом Crashlytics и уведомлениями, сообщениями от сервиса Firebase.
-
-
-Что входит в задание
 
     Подключить Firebase к проекту.
     Настроить проект для получения отчётов о сбоях и ошибках, происходящих в приложении.
@@ -18,9 +11,6 @@
 
 Что нужно сделать
 
-Для практической работы можете использовать приложение «Достопримечательности», которое разрабатывали в прошлых модулях.
-
-Помимо самого проекта, для зачёта практической работы нужно предоставить скриншоты, которые демонстрируют работу подключённых сервисов Firebase.
 
     Создайте проект в консоли Firebase.
     Добавьте к созданному проекту Android-приложение:
@@ -50,14 +40,12 @@
 
 Рекомендации по выполнению
 
-    Создание проекта в Firebase и добавление приложения
-    Подключение Crashlytics
-    Подключение Messaging Service
-    Обработка получаемых сообщений от FCM
-    Создание channel для уведомлений
-    Создание уведомления
-
-Если с какими-то пунктами задания возникнут проблемы, попросите помощи у куратора.
+    Создание проекта в Firebase и добавление приложения https://firebase.google.com/docs/android/setup?hl=ru
+    Подключение Crashlytics https://firebase.google.com/docs/crashlytics/get-started?platform=android
+    Подключение Messaging Service https://firebase.google.com/docs/cloud-messaging/android/first-message
+    Обработка получаемых сообщений от FCM  https://firebase.google.com/docs/cloud-messaging/android/receive
+    Создание channel для уведомлений https://developer.android.com/develop/ui/views/notifications/channels
+    Создание уведомления https://developer.android.com/develop/ui/views/notifications/build-notification
 
 
 Что оценивается
